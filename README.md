@@ -1,7 +1,7 @@
 # PCAP-dataExtractor
 Python code to parse JSON network traffic data to CSV file. 
 
-Note: The script is written for Python 3.6.7. Probably ork with all other versions.
+Note: The script is written for Python 3.6.7. Probably ok with all other versions.
 Steps for PCAP -> JSON -> Parsed data file.
 
 Step 1: Export pcap data to JSON file.
